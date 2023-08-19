@@ -1,2 +1,2 @@
 # Safe-Multi-Objective-MuJoCo
-Safe Multi-Objective MuJoCo Benchmark
+Leveraging MuJoCo, several Safe Multi-Objective environments have been developed to evaluate the performance of safe MORL algorithms: Safe Multi-Objective HalfCheetah, Safe Multi-Objective Hopper, Safe Multi-Objective Humanoid, Safe Multi-Objective Swimmer, Safe Multi-Objective Walker, and Safe Multi-Objective Pusherhave been introduced to evaluate the effectiveness of safe MORL methods. 
