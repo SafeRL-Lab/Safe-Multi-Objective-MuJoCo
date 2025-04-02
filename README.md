@@ -6,10 +6,11 @@ The repository is for Safe Multi-Objective Reinforcement Learning (MORL) researc
 ## Publication
 If you find the repository useful, please cite the [paper](https://arxiv.org/pdf/2405.01677):
 ```
-@article{gu2024safe,
-  title={Safe and Balanced: A Framework for Constrained Multi-Objective Reinforcement Learning},
+@article{gu2025safe,
+  title={Safe and balanced: A framework for constrained multi-objective reinforcement learning},
   author={Gu, Shangding and Sel, Bilgehan and Ding, Yuhao and Wang, Lu and Lin, Qingwei and Knoll, Alois and Jin, Ming},
-  journal={arXiv preprint arXiv:2405.16390},
-  year={2024}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2025},
+  publisher={IEEE}
 }
 ```
